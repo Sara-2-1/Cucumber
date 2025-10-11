@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.898" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-08T21:19:07.613800Z">
+<testcase classname="Login Feature" name="Happy Path" time="5.832">
+<system-out><![CDATA[
+Given user is on the signin page............................................passed
+When user enters valid username.............................................passed
+And user enters valid password..............................................passed
+And user click on submit button.............................................passed
+Then user validates the signin..............................................passed
+And close browser...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
